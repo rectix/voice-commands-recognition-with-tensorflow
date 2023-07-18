@@ -5,7 +5,7 @@ from tensorflow import keras
 from recording  import record_audio, terminate
 from tensor import preprocess_audiobuffer
 
-# !! Modify this in the correct order
+
 commands = ['down', 'go', 'left', 'no', 'right', 'stop', 'up', 'yes']
 
 
